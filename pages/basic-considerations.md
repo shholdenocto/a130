@@ -17,7 +17,7 @@ description: "Basic Considerations"
   
   e. Federal information must be protected like the strategic asset and valuable national resource that it is. Agencies must have information security programs that consider the risks and range of threats to information assets and implement controls to mitigate those risks to acceptable levels.
   
-  f. Protecting an individual's privacy is of utmost importance. Privacy must be considered and protected throughout the information life cycle in Federal information activities.
+  f. Protecting an individual's personally identifiable information (PII) is of utmost importance. Privacy must be considered and protected throughout the information life cycle in Federal information activities.
   
   g. Information quality is a key parameter of information utility. Quality standards provide established means to evaluate rigor.
   
