@@ -30,3 +30,5 @@ description: "Basic Considerations"
   k. The Nation can benefit from Federal information disseminated by diverse non-Federal parties, including State and local government agencies, educational and other not-for-profit institutions, and for-profit organizations.
   
   l. State, local, tribal, and territorial governments are important producers and consumers of information for many areas such as health, social welfare, labor, transportation, national security, public safety, homeland defense, and education. Consequently, the Federal Government should cooperate with these entities in the management of information resources.
+  
+  m. Federal agencies should seek to maximize the value of investments in information technology by conducting systematic portfolio management, eliminating unecessary duplication of products and services, minimizing risk through incremental development, and conducting oversight appropriate to the life cycle management framework being used.
